@@ -1,6 +1,6 @@
 {
-  "name": "azure-aws-serverless-express",
-  "version": "0.1.5",
+  "name": "@zachabney/azure-aws-serverless-express",
+  "version": "0.1.6",
   "description": "Wrapper library to use aws-serverless-express with Azure Functions",
   "main": "dist/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigx333/azure-aws-serverless-express.git"
+    "url": "git+https://github.com/zachabney/azure-aws-serverless-express.git"
   },
-  "author": "Nelson Camargo",
+  "author": "Zach Abney",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bigx333/azure-aws-serverless-express/issues"
+    "url": "https://github.com/zachabney/azure-aws-serverless-express/issues"
   },
-  "homepage": "https://github.com/bigx333/azure-aws-serverless-express#readme",
+  "homepage": "https://github.com/zachabney/azure-aws-serverless-express#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
