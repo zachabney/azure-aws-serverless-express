@@ -1,6 +1,6 @@
 {
   "name": "@zachabney/azure-aws-serverless-express",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Wrapper library to use aws-serverless-express with Azure Functions",
   "main": "dist/index.js",
   "scripts": {
